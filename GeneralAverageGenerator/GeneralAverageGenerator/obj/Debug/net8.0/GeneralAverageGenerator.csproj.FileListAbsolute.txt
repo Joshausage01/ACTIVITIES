@@ -1,0 +1,14 @@
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\bin\Debug\net8.0\GeneralAverageGenerator.exe
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\bin\Debug\net8.0\GeneralAverageGenerator.deps.json
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\bin\Debug\net8.0\GeneralAverageGenerator.runtimeconfig.json
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\bin\Debug\net8.0\GeneralAverageGenerator.dll
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\bin\Debug\net8.0\GeneralAverageGenerator.pdb
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\obj\Debug\net8.0\GeneralAverageGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\obj\Debug\net8.0\GeneralAverageGenerator.AssemblyInfoInputs.cache
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\obj\Debug\net8.0\GeneralAverageGenerator.AssemblyInfo.cs
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\obj\Debug\net8.0\GeneralAverageGenerator.csproj.CoreCompileInputs.cache
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\obj\Debug\net8.0\GeneralAverageGenerator.dll
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\obj\Debug\net8.0\refint\GeneralAverageGenerator.dll
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\obj\Debug\net8.0\GeneralAverageGenerator.pdb
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\obj\Debug\net8.0\GeneralAverageGenerator.genruntimeconfig.cache
+C:\Users\other\source\repos\ACTIVITY\GeneralAverageGenerator\GeneralAverageGenerator\obj\Debug\net8.0\ref\GeneralAverageGenerator.dll

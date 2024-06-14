@@ -1,0 +1,14 @@
+C:\Users\other\source\repos\AddDays\AddDays\bin\Debug\net8.0\AddDays.exe
+C:\Users\other\source\repos\AddDays\AddDays\bin\Debug\net8.0\AddDays.deps.json
+C:\Users\other\source\repos\AddDays\AddDays\bin\Debug\net8.0\AddDays.runtimeconfig.json
+C:\Users\other\source\repos\AddDays\AddDays\bin\Debug\net8.0\AddDays.dll
+C:\Users\other\source\repos\AddDays\AddDays\bin\Debug\net8.0\AddDays.pdb
+C:\Users\other\source\repos\AddDays\AddDays\obj\Debug\net8.0\AddDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\other\source\repos\AddDays\AddDays\obj\Debug\net8.0\AddDays.AssemblyInfoInputs.cache
+C:\Users\other\source\repos\AddDays\AddDays\obj\Debug\net8.0\AddDays.AssemblyInfo.cs
+C:\Users\other\source\repos\AddDays\AddDays\obj\Debug\net8.0\AddDays.csproj.CoreCompileInputs.cache
+C:\Users\other\source\repos\AddDays\AddDays\obj\Debug\net8.0\AddDays.dll
+C:\Users\other\source\repos\AddDays\AddDays\obj\Debug\net8.0\refint\AddDays.dll
+C:\Users\other\source\repos\AddDays\AddDays\obj\Debug\net8.0\AddDays.pdb
+C:\Users\other\source\repos\AddDays\AddDays\obj\Debug\net8.0\AddDays.genruntimeconfig.cache
+C:\Users\other\source\repos\AddDays\AddDays\obj\Debug\net8.0\ref\AddDays.dll

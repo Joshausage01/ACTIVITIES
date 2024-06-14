@@ -1,0 +1,14 @@
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\bin\Debug\net8.0\GenerationIdentifier.exe
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\bin\Debug\net8.0\GenerationIdentifier.deps.json
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\bin\Debug\net8.0\GenerationIdentifier.runtimeconfig.json
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\bin\Debug\net8.0\GenerationIdentifier.dll
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\bin\Debug\net8.0\GenerationIdentifier.pdb
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\obj\Debug\net8.0\GenerationIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\obj\Debug\net8.0\GenerationIdentifier.AssemblyInfoInputs.cache
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\obj\Debug\net8.0\GenerationIdentifier.AssemblyInfo.cs
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\obj\Debug\net8.0\GenerationIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\obj\Debug\net8.0\GenerationIdentifier.dll
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\obj\Debug\net8.0\refint\GenerationIdentifier.dll
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\obj\Debug\net8.0\GenerationIdentifier.pdb
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\obj\Debug\net8.0\GenerationIdentifier.genruntimeconfig.cache
+C:\Users\other\source\repos\ACTIVITY\GenerationIdentifier\GenerationIdentifier\obj\Debug\net8.0\ref\GenerationIdentifier.dll

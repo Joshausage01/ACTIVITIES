@@ -1,0 +1,14 @@
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\bin\Debug\net8.0\DateIdentifier_inArray_.exe
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\bin\Debug\net8.0\DateIdentifier_inArray_.deps.json
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\bin\Debug\net8.0\DateIdentifier_inArray_.runtimeconfig.json
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\bin\Debug\net8.0\DateIdentifier_inArray_.dll
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\bin\Debug\net8.0\DateIdentifier_inArray_.pdb
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\obj\Debug\net8.0\DateIdentifier_inArray_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\obj\Debug\net8.0\DateIdentifier_inArray_.AssemblyInfoInputs.cache
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\obj\Debug\net8.0\DateIdentifier_inArray_.AssemblyInfo.cs
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\obj\Debug\net8.0\DateIdentifier_inArray_.csproj.CoreCompileInputs.cache
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\obj\Debug\net8.0\DateIdentifier_inArray_.dll
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\obj\Debug\net8.0\refint\DateIdentifier_inArray_.dll
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\obj\Debug\net8.0\DateIdentifier_inArray_.pdb
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\obj\Debug\net8.0\DateIdentifier_inArray_.genruntimeconfig.cache
+C:\Users\other\source\repos\DateIdentifier_inArray_\DateIdentifier_inArray_\obj\Debug\net8.0\ref\DateIdentifier_inArray_.dll

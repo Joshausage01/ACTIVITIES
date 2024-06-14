@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DateIdentifier_inArray_/1.0.0": {
+        "runtime": {
+          "DateIdentifier_inArray_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DateIdentifier_inArray_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
